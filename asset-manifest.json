@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mini-viihde-app/static/css/main.8913a5b7.chunk.css",
+    "main.js": "/mini-viihde-app/static/js/main.03a307a2.chunk.js",
+    "main.js.map": "/mini-viihde-app/static/js/main.03a307a2.chunk.js.map",
+    "runtime-main.js": "/mini-viihde-app/static/js/runtime-main.d31cd912.js",
+    "runtime-main.js.map": "/mini-viihde-app/static/js/runtime-main.d31cd912.js.map",
+    "static/js/2.b22c37b8.chunk.js": "/mini-viihde-app/static/js/2.b22c37b8.chunk.js",
+    "static/js/2.b22c37b8.chunk.js.map": "/mini-viihde-app/static/js/2.b22c37b8.chunk.js.map",
+    "index.html": "/mini-viihde-app/index.html",
+    "precache-manifest.7323f567705429f71dd4b75ca5629f9b.js": "/mini-viihde-app/precache-manifest.7323f567705429f71dd4b75ca5629f9b.js",
+    "service-worker.js": "/mini-viihde-app/service-worker.js",
+    "static/css/main.8913a5b7.chunk.css.map": "/mini-viihde-app/static/css/main.8913a5b7.chunk.css.map",
+    "static/js/2.b22c37b8.chunk.js.LICENSE.txt": "/mini-viihde-app/static/js/2.b22c37b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d31cd912.js",
+    "static/js/2.b22c37b8.chunk.js",
+    "static/css/main.8913a5b7.chunk.css",
+    "static/js/main.03a307a2.chunk.js"
+  ]
+}
