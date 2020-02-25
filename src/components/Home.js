@@ -23,6 +23,9 @@ const Home = () => (
       <li>
           Simple UI by Semantic-UI.
       </li>
+      <li>
+        Deploy to Heroku.
+      </li>
     </ul>
   </div>
 );

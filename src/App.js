@@ -45,16 +45,15 @@ const App = () => {
               </Menu.Item>
             </Menu>
           </div>
+          <Route exact path="/" render={() => <Home />} />
           <Route
-            exact path="/"
-            render={() => <Home />}
-          />
-          <Route
-            exact path="/videos"
+            exact
+            path="/videos"
             render={() => <Videos videos={videos} />}
           />
           <Route
-            exact path="/videos/:id"
+            exact
+            path="/videos/:id"
             render={({ match }) => <Video video={videoById(match.params.id)} />}
           />
         </Router>
@@ -63,8 +62,8 @@ const App = () => {
           <em>
             <p>
               By Loc Hoang. See{" "}
-              <a href="https://github.com/hpkhanhloc/viihde-app">
-                https://github.com/hpkhanhloc/viihde-app
+              <a href="https://github.com/hpkhanhloc/mini-viihde-app">
+                https://github.com/hpkhanhloc/mini-viihde-app
               </a>{" "}
               for source code.
             </p>
